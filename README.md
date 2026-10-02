@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jawwad
 
-<!--
-**Jawwad891/Jawwad891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur | Digital Marketing | Web & Technology
 
-Here are some ideas to get you started:
+I work on digital businesses, websites, marketing projects,
+and technology-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Digital Marketing
+- Website & Web Projects
+- Business Development
+- Online Branding
+- Technology Projects
+
+## Current Projects
+
+🌿 Rosemary — Online business & brand project
+
+📈 Digital Marketing & Online Growth
+
+💻 Web-based Business Projects
+
+📍 Karachi, Pakistan
